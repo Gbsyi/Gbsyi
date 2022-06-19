@@ -20,7 +20,7 @@ My name is Vladislav. I'm junior developer from Russia.
 ## 📫 My contacts:  
   - E-mail: gbsyi@yandex.ru
   - Telegram: [Link](https://t.me/Gbsyi)
-  - LinkedIn: [Link](https://www.linkedin.com/in/vladislav-yakovlev-21a467234)  
+  - LinkedIn: [Link](www.linkedin.com/in/gbsyi)  
 
 ## 💻 My work:  
 Now I'm working in small company as fullstack .NET developer. Working with ASP.NET and Angular. Even though I work as a full-stack dev, I am a backend developer at heart
