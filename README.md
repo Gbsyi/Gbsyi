@@ -47,8 +47,8 @@ Now I'm working in small company as fullstack .NET developer. Working with ASP.N
     - Nginx  
     - Keycloak  
 
-## 🔭 I’m currently working on
-Currently working on my diploma, an backend for mobile app. In this project I'm using ASP.NET with PostgreSQL and Keycloak. For now, demo available [here](https://api.gbsyi.ru)
+## 🔭 I’m currently working on...
+Currently working on my diploma, a backend for mobile app. In this project I'm using ASP.NET with PostgreSQL and Keycloak. For now, demo available [here](https://api.gbsyi.ru)
 
 ## 🌱 I'm currently learning...
 I am currently interested in two languages: F# and Rust  
