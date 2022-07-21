@@ -48,7 +48,10 @@ Now I'm working in small company as fullstack .NET developer. Working with ASP.N
     - Keycloak  
 
 ## 🔭 I’m currently working on...
-Currently working on my diploma, a backend for mobile app. In this project I'm using ASP.NET with PostgreSQL and Keycloak. For now, demo available [here](https://api.gbsyi.ru)
+Currently working on fullstack project. It's mobile app which allow you to share your geolocaton with friends.  
+### Project stack
+Client App - React Native (Typescript)  
+Backend - ASP .NET 6
 
 ## 🌱 I'm currently learning...
 I am currently interested in two languages: F# and Rust  
