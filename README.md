@@ -30,12 +30,14 @@ Now I'm working in small company as fullstack .NET developer. Working with ASP.N
     - Docker/Docker-Compose  
     - Nginx  
     - Keycloak  
+    - Zenko Cloudserver (AWS S3 protocol implementation)
 
 ## 🔭 I’m currently working on...
-Currently working on fullstack project. It's mobile app which allow you to share your geolocaton with friends.  
+Currently working on fullstack project. It's a gallery app. 
 ### Project stack
-Client App - React Native (Typescript)  
+Client App - .NET MAUI
 Backend - ASP .NET 6
+Technologies i used - PostgreSql, Zenko Cloudserver
 
 ## 🌱 I'm currently learning...
 I am currently interested in two languages: F# and Rust  
